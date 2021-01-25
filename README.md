@@ -47,7 +47,7 @@
 
 ### 目标用户画像
 
-![用户画像](picture/用户画像_01.png)
+![用户画像](picture/user_pic.png)
 
 <br/>
 
@@ -60,7 +60,7 @@
 
 #### 网站地图
 
-![网站地图](picture/网站地图.png)
+![网站地图](picture/web_map.png)
 
 <br/>
 
@@ -96,9 +96,9 @@
 ### 2.2 字体使用
 字体可读性设计：字体的样式选择上采用了Serif，这种衬线样式视觉感受会较为工整，能很好的融入网站的主题风格；文章字体在样式相同的基础上选择了灰色，会与导航标识有一个对比
 
-<div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/%E5%AD%97%E4%BD%93%E4%BD%BF%E7%94%A81.png" width="300" height="550" alt="头条字体样式"></div>
+<div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/word_style02.png" width="300" height="550" alt="头条字体样式"></div>
 
-<div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/%E5%AD%97%E4%BD%93%E4%BD%BF%E7%94%A82.png" width="300" height="500" alt="文章字体样式"></div>
+<div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/word_style01.pngg" width="300" height="500" alt="文章字体样式"></div>
 
 <br/>
 
@@ -116,38 +116,38 @@
 ### 1. 云端架站
 使用doyoudo.top域名进行网站架设，top顶级域名方便基于，一级域名doyoudo含义为“做你向做的事”，切合网站主题。通过这样的域名重定向能够让用户更快记住我的网站。
 
-[网站首页](picture/网站首页.png)
+[网站首页](picture/web_first.png)
 
 <br/>
 
 ### 2. 网站安全
 使用wordfence来提高网站的安全性，同时优化你的数据库，并拦截他人的攻击。wordfence时刻观察网站的浏览量，阅读数，安全性能，在此模式下，Wordfence防火墙会主动阻止与已知攻击模式匹配的请求，并主动保护站点免受攻击者攻击。通过wordfence的监控我了解到我的网站的安全性能还不高，只达60%。从防火墙提供的数据中，可以看出网站防复杂攻击的能力较弱，只有48%，如果遭受黑客有意攻击会很容易造成网站崩溃数据外泄，但暂时没有遇到此类风险。
 
-![wordfence插件](picture/网站安全.png)
+![wordfence插件](picture/web_safe.png)
 
 <br/>
 
 ### 3. 网站性能
 在site24X7中添加了一个监视器，八个监视位置为：香港、北京、东京、新加坡、上海、广州、成都、深圳。在site24X7中，首先我可以了解到我的网站在这八个地方的响应时间和速度，其中上海地区的访问速度最快，新加坡的访问速度最慢；我的网站的平均响应时间为0.789秒。其他地区每五分钟检测一次，均可访问。据site24x7显示：本网站的可用性是100%，网页跳转速度也良好。
 
-![site24x4插件](picture/网站监控.png)
+![site24x4插件](picture/web_control.png)
 
-![site24x4](picture/网站响应.png)
+![site24x4](picture/web_response.png)
 
 <br/>
 
 ### 4. 网站备份
 1. 通过宝塔系统直接下载wp-config.php进行备份
 
-![wp-config.php](picture/宝塔config.png)
+![wp-config.php](picture/config.png)
 
 2. 通过wordpress后台导出工具进行备份
 
-![wordpress后台](picture/wordpress后台.png)
+![wordpress后台](picture/wordpress.png)
 
 3. 通过数据库导出sql进行备份
 
-![php](picture/php数据库.png)
+![php](picture/Php_data.png)
 
 <br/>
 <br/>
@@ -159,7 +159,7 @@
 1. 百度站长验证
 > 登录百度站长工具，选择通过CNAME的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
 
-![百度收录](picture/百度收录.png)
+![百度收录](picture/baidu_get.png)
 
 2. bing站长工具
 > 登录bing站长工具，选择通过CNAME的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
@@ -173,12 +173,12 @@
 #### 方法一：在Yoast里添加文章的关键词同时补充完善描述文本，以此增加搜索引擎的收录机会。
 > 添加方法：在每篇文章的最后面会出现Yoast的工具，通过总结文章最有价值的关键词，同时利用关键词搜索工具查询该关键词的使用频率确定，最后确定的文章关键词。
 
-![seo](picture/seo优化.png)
+![seo](picture/seo_01.png)
 
 #### 方法二：修改文章url的定义规则，使得其更加规范化以便于搜索引擎收录
 > 修改方法：在wordpress后台中找到“设置”在子菜单中找到“固定链接”即可在里面修改整个网站的url的定义，我将其修改为文章名，这样更有助于搜索引擎爬取网站。且修改为英文别名。
 
-![seo02](picture/seo优化02.png)
+![seo02](picture/seo_02.png)
 
 <br/>
 
@@ -219,4 +219,11 @@
 
 ### 微信小商场配置
 
-![小商场](picture/小商场.jpg)
+![小商场](picture/shoppingmall.jpg)
+
+#### 微信小程序（新闻）
+
+![凤凰新闻](wechat_new.png)
+
+#### 课程总结与感谢
+网站运营与管理这门课对于我的收获颇丰，从零到一个网站的整体搭建，经过的步骤和困难比想象中的要多得多。我认识到在这个领域还有很多的知识等待我去探索，自己从小白——入门——掌握网站搭建和电商相关知识，一路走来要感谢老师的辛勤教导和同学们的帮助，虽然课程结束，但关于网站的知识的学习应从未停止，希望将来这门课能为更多网新学子带来帮助，引导学生向更更懂网络、更具网络素养的方向发展。
