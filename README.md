@@ -98,7 +98,7 @@
 
 <div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/word_style02.png" width="300" height="550" alt="头条字体样式"></div>
 
-<div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/word_style01.pngg" width="300" height="500" alt="文章字体样式"></div>
+<div align=center><img src="https://github.com/Maifengyuan/Website_operation-Finalprogram/blob/main/picture/word_style01.png" width="300" height="500" alt="文章字体样式"></div>
 
 <br/>
 
@@ -223,7 +223,7 @@
 
 #### 微信小程序（新闻）
 
-![凤凰新闻](wechat_new.png)
+![凤凰新闻](picture/wechat_new.png)
 
 #### 课程总结与感谢
 网站运营与管理这门课对于我的收获颇丰，从零到一个网站的整体搭建，经过的步骤和困难比想象中的要多得多。我认识到在这个领域还有很多的知识等待我去探索，自己从小白——入门——掌握网站搭建和电商相关知识，一路走来要感谢老师的辛勤教导和同学们的帮助，虽然课程结束，但关于网站的知识的学习应从未停止，希望将来这门课能为更多网新学子带来帮助，引导学生向更更懂网络、更具网络素养的方向发展。
