@@ -6,7 +6,7 @@
 - 站长：麦锋源
 - 指导老师：胡美香
 - 网站搭建运用wordpress模板支持
-- 项目展示：[]()
+- 项目展示：[百度网盘链接](https://pan.baidu.com/s/14OZgKsCgzmjQ3_KH10rJ8w),提取码: a1q5)
 
 ***
 
