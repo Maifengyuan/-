@@ -161,10 +161,10 @@
 
 ![百度收录](picture/baidu_get.png)
 
-2. bing站长工具
-> 登录bing站长工具，选择通过CNAME的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
+2. 360站长工具
+> 登录360站长工具，选择通过CNAME的验证方法，将其验证码贴入Yoast SEO，完成验证后提交sitemap
 
-![]()
+![360收录](picture/360_get.png)
 
 <br/>
 
